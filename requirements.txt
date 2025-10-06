@@ -1,8 +1,8 @@
 streamlit
-pandas
 numpy
-scikit-learn
-requests
-plotly
+pandas
+rasterio
+matplotlib
+pillow
 folium
 streamlit-folium
